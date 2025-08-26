@@ -54,7 +54,7 @@ export default function UberEatsSlipBuilder() {
   const header = (
     <div className="pt-3 pb-2 border-b border-zinc-200">
       <div className="text-[13px] tracking-[0.14em] text-zinc-900 text-center font-bold">
-        pickup order
+        Pickup order
       </div>
       <div className="text-[11px] text-zinc-500 text-center mt-0.5">
         Show details to cashier
